@@ -6,7 +6,7 @@
 
 ## Ссылка на веб-карту
 
-Ссылка будет добавлена после публикации проекта на GitHub Pages.
+https://artem79ru-ux.github.io/novosibirsk-transport-accessibility/
 
 ## Цель проекта
 
